@@ -29,10 +29,10 @@ Finally, you will see a series of characters representing the environment you wa
 * **0 are for empty space.**
 * **1 are for walls.**
 * **N, S, E, W is for your initial position and your orientation: facing North, South, East or West.**
-</br>
 
 Of course, the map should be surrounded by ones. Anyway, an error should appear if you do not abide by some basic rules.
 Example: you can only have one character position (so only one N, S, E or W), you cannot have any other characters than spaces, 0, 1, N, S, E, W and 2 for the bonus part. Yes, there is a bonus part!
+</br>
 </br>
 
 ### ------------------------------BONUS------------------------------
