@@ -36,6 +36,7 @@ Example: you can only have one character position (so only one N, S, E or W), yo
 </br>
 
 ### ------------------------------BONUS------------------------------
+</br>
 
 Run ```make bonus``` and then ```./cubd3d maps/map_bonus.cub```
 </br>
