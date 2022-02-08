@@ -40,7 +40,7 @@ You can pivot your point of view with the **left and right arrows**.
 
 ### Bonus
 
-Run ```make bonus``` and then ```./cub3d maps/map_bonus.cub```
+Run ```make bonus``` and then ```./cub3d_bonus maps/map_bonus.cub```
 
 Just like before a window open. this time, you mat have noticed that a new character appeared in the map:
 * **2** for animated sprites
