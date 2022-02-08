@@ -46,7 +46,7 @@ Just like before a window open. this time, you mat have noticed that a new chara
 * **2** for animated sprites
 
 The bonus part contain several new features:
-* animated **sprites**
+* animated **sprites** that you can walk through
 * motion from the **mouse**
 * a **minimap**
 
