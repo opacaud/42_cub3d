@@ -1,6 +1,6 @@
-# 42_cub3d
+# Project 08: 42_cub3d
 
-## Project 08: Creating a Wolfenstein 3D environment from a file containing a map of zeroes and ones.
+## Creating a Wolfenstein 3D environment from a file containing a map of zeroes and ones.
 </br>
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/cub3d)](https://github.com/JaeSeoKim/badge42)
