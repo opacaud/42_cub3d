@@ -3,7 +3,7 @@
 ## Creating a Wolfenstein 3D environment from a file containing a map of zeroes and ones.
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/cub3d)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2431473)](https://github.com/JaeSeoKim/badge42)
 </br>
 </br>
 
